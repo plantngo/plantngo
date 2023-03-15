@@ -1,0 +1,6 @@
+[submodule "plantngo_frontend"]
+	path = plantngo_frontend
+	url = git@github.com:plantngo/plantngo_frontend
+[submodule "plantngo_backend"]
+	path = plantngo_backend
+	url = git@github.com:plantngo/plantngo_backend
