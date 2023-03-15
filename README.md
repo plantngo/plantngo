@@ -3,10 +3,8 @@ The Plant&Go Project consists of two parts:
 1. [Plant&Go Backend Server (Spring Boot MVC)](https://github.com/plantngo/plantngo_backend)
 2. [Plant&Go Frontend Mobile Application (Flutter)](https://github.com/plantngo/plantngo_frontend)
 
-# Quick Start
-
-## Introduction
-Plant&Go is a mobile application that encourages the pursuit of a sustainable diet.
+# Introduction
+Plant&Go is a food ordering platform that promotes and incentivises consumers to incorporate environmentally sustainable diets into their daily lives, reducing carbon emission from food consumption
 
 # Overview
 ## Solution Architecture
