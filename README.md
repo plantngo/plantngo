@@ -10,10 +10,10 @@ Plant&Go is a mobile application that encourages the pursuit of a sustainable di
 
 # Overview
 ## Solution Architecture
-![](./plantngo_backend/.github/README/PlantNGo%20Solution%20Architecture.png)
+![](https://github.com/plantngo/plantngo_backend/blob/62bac062f686e43e764a499a34b3a8769b2d8037/.github/README/PlantNGo%20Solution%20Architecture.png)
 
 ## Database Entity-Relation Diagram
-![](./plantngo_backend/.github/README/PlantNGo%20ER%20Diagram.png)
+![](https://github.com/plantngo/plantngo_backend/blob/62bac062f686e43e764a499a34b3a8769b2d8037/.github/README/PlantNGo%20ER%20Diagram.png)
 
 # Usage
 Refer to the following submodule's repository on specific setup:
